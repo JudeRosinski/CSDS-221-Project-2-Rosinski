@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+
+CardHeader: {
+  background-color: blue;
+}
+
+MenuIcon {
+  vertical-align: 1px;
+}
+
+Typography {
+  vertical-align: 1px;
+}
